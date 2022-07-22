@@ -97,7 +97,7 @@ You can highly customize the fretboard with all the following variables :
                 show_ft = True  
                 color_scale = True (for the Scale class)  
                 open_color_scale=False (for the Scale class)
-                show_note_name = False (if show_not_name==True, show_degree_name is not considered )  
+                show_note_name = False (if show_note_name==True, show_degree_name is not considered )  
                 show_degree_name = True  
                 color_chord=True (for the ChordGtr class)  
                 open_color_chord=True (for the ChordGtr class)  
